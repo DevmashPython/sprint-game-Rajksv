@@ -45,3 +45,10 @@ while 1:
 			break
 time_elapsed=time.time() - s_time
 print "\nGame over. Time taken: " + str(time_elapsed) + ' seconds'
+
+
+'''
+1. Mention controls for the game.
+2. The program should exit after wrong key is pressed.
+3. mention when to turn right and down
+'''
